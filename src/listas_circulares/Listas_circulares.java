@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author martin cantillo
+ * @author Martin Cantillo
  */
 public class Listas_circulares {
 
